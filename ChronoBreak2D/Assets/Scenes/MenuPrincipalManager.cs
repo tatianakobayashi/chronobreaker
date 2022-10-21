@@ -20,6 +20,8 @@ public class MenuPrincipalManager : MonoBehaviour
         painelOpcoes.SetActive(true);
     }
 
+    
+
     public void FecharOpcoes()
     {
         painelOpcoes.SetActive(false);
